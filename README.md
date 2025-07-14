@@ -1,4 +1,4 @@
-# Datasets Crawler
+# Paper Crawler
 
 This project is a Flask-based web application designed to crawl and process scientific datasets from various online sources. It uses a modular architecture to support different crawling protocols and includes functionalities for data cleaning, storage, and task management.
 
