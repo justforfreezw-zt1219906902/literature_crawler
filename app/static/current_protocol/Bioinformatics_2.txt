@@ -1,0 +1,47 @@
+
+TY  - JOUR
+AU  - Kim, Sunghwan
+C7  - e217
+TI  - Exploring Chemical Information in PubChem
+JO  - Current Protocols
+JA  - Current Protocols
+VL  - 1
+IS  - 8
+UR  - https://doi.org/10.1002/cpz1.217
+DO  - https://doi.org/10.1002/cpz1.217
+SP  - e217
+KW  - cheminformatics
+KW  - chemical structure search
+KW  - drug discovery
+KW  - molecular similarity
+KW  - PubChem
+KW  - public database
+PY  - 2021
+AB  - Abstract PubChem (https://pubchem.ncbi.nlm.nih.gov) is a public chemical database that serves scientific communities as well as the general public. This database collects chemical information from hundreds of data sources and organizes them into multiple data collections, including Substance, Compound, BioAssay, Protein, Gene, Pathway, and Patent. These collections are interlinked with each other, allowing users to discover related records in the various collections (e.g., drugs targeting a protein or genes modulated by a chemical). PubChem can be searched by keyword (e.g., a chemical, protein, or gene name) as well as by chemical structure. The input structure can be provided using popular line notations or drawn with the PubChem Sketcher. PubChem supports various types of structure searches, including identity search, 2-D and 3-D similarity searches, and substructure and superstructure searches. Results from multiple searches can be combined using Boolean operators (i.e., AND, OR, and NOT) to formulate complex queries. PubChem allows the user to quickly retrieve a list of records annotated with a particular classification or ontological term. This paper provides step-by-step instructions on how to explore PubChem data with examples of commonly requested tasks. ? 2021. This article is a U.S. Government work and is in the public domain in the USA. Current Protocols published by Wiley Periodicals LLC. Basic Protocol 1: Finding genes and proteins that interact with a given compound Basic Protocol 2: Finding drug-like compounds similar to a query compound through a two-dimensional (2-D) similarity search Basic Protocol 3: Finding compounds similar to a query compound through a three-dimensional (3-D) similarity search Support Protocol: Computing similarity scores between compounds Basic Protocol 4: Getting the bioactivity data for the hit compounds from substructure search Basic Protocol 5: Finding drugs that target a particular gene Basic Protocol 6: Getting bioactivity data of all chemicals tested against a protein. Basic Protocol 7: Finding compounds annotated with classifications or ontological terms Basic Protocol 8: Finding stereoisomers and isotopomers of a compound through identity search
+ER  - 
+
+TY  - JOUR
+AU  - Quaglia, Federica
+AU  - Lazar, Tamas
+AU  - Hatos, András
+AU  - Tompa, Peter
+AU  - Piovesan, Damiano
+AU  - Tosatto, Silvio C. E.
+C7  - e192
+TI  - Exploring Curated Conformational Ensembles of Intrinsically Disordered Proteins in the Protein Ensemble Database
+JO  - Current Protocols
+JA  - Current Protocols
+VL  - 1
+IS  - 7
+UR  - https://doi.org/10.1002/cpz1.192
+DO  - https://doi.org/10.1002/cpz1.192
+SP  - e192
+KW  - conformational ensembles
+KW  - database
+KW  - intrinsically disordered proteins
+KW  - literature curation
+KW  - PED
+KW  - structural modeling
+PY  - 2021
+AB  - Abstract The Protein Ensemble Database (PED; https://proteinensemble.org/) is the major repository of conformational ensembles of intrinsically disordered proteins (IDPs). Conformational ensembles of IDPs are primarily provided by their authors or occasionally collected from literature, and are subsequently deposited in PED along with the corresponding structured, manually curated metadata. The modeling of conformational ensembles usually relies on experimental data from small-angle X-ray scattering (SAXS), fluorescence resonance energy transfer (FRET), NMR spectroscopy, and molecular dynamics (MD) simulations, or a combination of these techniques. The growing number of scientific studies based on these data, along with the astounding and swift progress in the field of protein intrinsic disorder, has required a significant update and upgrade of PED, first published in 2014. To this end, the database was entirely renewed in 2020 and now has a dedicated team of biocurators providing manually curated descriptions of the methods and conditions applied to generate the conformational ensembles and for checking consistency of the data. Here, we present a detailed description on how to explore PED with its protein pages and experimental pages, and how to interpret entries of conformational ensembles. We describe how to efficiently search conformational ensembles deposited in PED by means of its web interface and API. We demonstrate how to make sense of the PED protein page and its associated experimental entry pages with reference to the yeast Sic1 use case. ? 2021 The Authors. Current Protocols published by Wiley Periodicals LLC. [Correction added on May 17, 2022, after first online publication: CRUI-CARE funding statement has been added.] Basic Protocol 1: Performing a search in PED Support Protocol 1: Programmatic access with the PED API Basic Protocol 2: Interpreting the protein page and the experimental entry page?the Sic1 use case Support Protocol 2: Downloading options Support Protocol 3: Understanding the validation report?the Sic1 use case Basic Protocol 3: Submitting new conformational ensembles to PED Basic Protocol 4: Providing feedback in PED
+ER  - 

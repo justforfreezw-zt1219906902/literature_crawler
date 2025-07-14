@@ -1,0 +1,8 @@
+count_key = "task_count_"
+success_count_key = "success_count"
+fail_count_key = "fail_count"
+total_count_key = "total_count"
+fail_list_key = "fail_list_"
+success_list_key = "success_list_"
+total_list_key = "total_list_"
+crawl_list = "crawl_list_"
